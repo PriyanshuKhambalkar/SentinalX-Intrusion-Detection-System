@@ -28,7 +28,7 @@
 ## 📸 Screenshots
 
 ### Main Dashboard
-<img width="600" height="300" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" />
+<img width="600" height="300" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" /><br/>
 *2×2 SOC-style dashboard — Threat Activity graph, Stat Cards, Alert Feed, Severity Breakdown*
 
 ### Alert Feed with Context Menu
