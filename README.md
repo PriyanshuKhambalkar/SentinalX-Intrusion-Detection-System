@@ -25,34 +25,6 @@
 
 ---
 
-## 📸 Screenshots
-
-### Main Dashboard
-<img width="600" height="300" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" /><br/>
-*2×2 SOC-style dashboard — Threat Activity graph, Stat Cards, Alert Feed, Severity Breakdown*
-
-### Alert Feed with Context Menu
-<img width="600" height="300" alt="s2" src="https://github.com/user-attachments/assets/8dd1accd-08fd-406a-b7c2-29ef418b9307" /><br/>
-*Right-click any alert for Investigate, Geo-IP Lookup, Block IP, Whitelist IP, or Acknowledge*
-
-### Incident Investigation Window
-<img width="600" height="500" alt="s3" src="https://github.com/user-attachments/assets/09e3e565-1590-40cb-a5a8-5b83294cc816" /><br/>
-*Full forensic details — Alert Details + IP Activity History for every incident*
-
-### Whitelist Manager
-<img width="500" height="400" alt="S4" src="https://github.com/user-attachments/assets/2802faad-1089-420c-abcf-e53660a3e79b" /><br/>
-*Add or remove trusted IPs at runtime without restarting the system*
-
-### Filter Bar
-<img width="600" height="30" alt="S5" src="https://github.com/user-attachments/assets/0dce03e3-f743-435e-9c77-80dc838aebed" /><br/>
-*Filter alerts by Severity, Attack Type, or Source IP — instantly narrows 500+ alerts*
-
-### Block IP Dialog
-<img width="223" height="146" alt="S6" src="https://github.com/user-attachments/assets/552e756e-534c-4b28-9491-24db8a828f9d" /><br/>
-*One-click iptables DROP rule from inside the dashboard (Linux)*
-
----
-
 ## ⚡ What is SentinelX?
 
 SentinelX is a real-time, rule-based Host-Based Intrusion Detection System that captures live network packets, evaluates them against 8 detection rules, and displays threats through a professional SOC-style dashboard. Every component — from raw packet capture to alert visualisation — is built from first principles in Python.
@@ -390,7 +362,33 @@ git commit -m "Add: your feature description"
 
 # Push and open a Pull Request
 git push origin feature/your-feature-name
+
 ```
+## 📸 Screenshots
+
+### Main Dashboard
+<img width="600" height="300" alt="s1" src="https://github.com/user-attachments/assets/ec24f04c-e60a-4cc2-8813-4732376ed7ad" /><br/>
+*2×2 SOC-style dashboard — Threat Activity graph, Stat Cards, Alert Feed, Severity Breakdown*
+
+### Alert Feed with Context Menu
+<img width="600" height="300" alt="s2" src="https://github.com/user-attachments/assets/8dd1accd-08fd-406a-b7c2-29ef418b9307" /><br/>
+*Right-click any alert for Investigate, Geo-IP Lookup, Block IP, Whitelist IP, or Acknowledge*
+
+### Incident Investigation Window
+<img width="600" height="500" alt="s3" src="https://github.com/user-attachments/assets/09e3e565-1590-40cb-a5a8-5b83294cc816" /><br/>
+*Full forensic details — Alert Details + IP Activity History for every incident*
+
+### Whitelist Manager
+<img width="500" height="400" alt="S4" src="https://github.com/user-attachments/assets/2802faad-1089-420c-abcf-e53660a3e79b" /><br/>
+*Add or remove trusted IPs at runtime without restarting the system*
+
+### Filter Bar
+<img width="600" height="30" alt="S5" src="https://github.com/user-attachments/assets/0dce03e3-f743-435e-9c77-80dc838aebed" /><br/>
+*Filter alerts by Severity, Attack Type, or Source IP — instantly narrows 500+ alerts*
+
+### Block IP Dialog
+<img width="223" height="146" alt="S6" src="https://github.com/user-attachments/assets/552e756e-534c-4b28-9491-24db8a828f9d" /><br/>
+*One-click iptables DROP rule from inside the dashboard (Linux)*
 
 ---
 
