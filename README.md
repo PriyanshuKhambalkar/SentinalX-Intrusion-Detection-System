@@ -8,9 +8,6 @@
 ███████║███████╗██║ ╚████║   ██║   ██║██║ ╚████║███████╗███████╗██╔╝ ██╗
 ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
-</div>
-
-<div align="center">
 ### Real-Time Rule-Based Intrusion Detection System
 
 *A lightweight, fully functional host-based IDS built in Python — no machine learning, no external rule files, no enterprise infrastructure required.*
